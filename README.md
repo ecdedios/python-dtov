@@ -16,8 +16,8 @@ Go to directory and open ``.ipynb`` files in Jupyter.
 
 ## Blurbs
 
-- ** Assignment does not produce a value.
-- Boolean variables usually have names that resemble a question.**
+- Assignment does not produce a value.
+- Boolean variables usually have names that resemble a question.
 
 ## Meta
 
